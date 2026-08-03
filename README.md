@@ -43,10 +43,10 @@ The project contains 30 SQL queries covering:
 - Business Reporting
 
 ## Dashboard Preview
-![Dashboard](dshboard.png)
+![Dashboard](dshboard.png.png)
 
 ## SQL Query Results
-![SQL Queries](sql_queries.png)
+![SQL Queries](sql_queries.png.png)
 
 ## Author
 Deepak Sharan
