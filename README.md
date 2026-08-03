@@ -43,7 +43,7 @@ The project contains 30 SQL queries covering:
 - Business Reporting
 
 ## Dashboard Preview
-![Dashboard](dshboard.png.png)
+![Dashboard](dashboard.png.png)
 
 ## SQL Query Results
 ![SQL Queries](sql_queries.png.png)
