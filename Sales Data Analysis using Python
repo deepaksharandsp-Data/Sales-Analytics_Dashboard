@@ -1,0 +1,48 @@
+# Sales Data Analysis using Python
+
+## 📌 Project Overview
+
+This project analyzes the Global Superstore dataset using Python, Pandas, and Matplotlib to generate business insights through data analysis and visualization.
+
+## 🛠️ Tools Used
+
+- Python
+- Pandas
+- Matplotlib
+- VS Code
+
+## 📂 Dataset
+
+- Global Superstore Dataset
+
+## 📊 Analysis Performed
+
+- Sales by Category
+- Profit by Category
+- Sales by Segment
+- Profit by Region
+- Monthly Sales Trend
+- Monthly Profit Trend
+- Top 10 Customers by Sales
+- Top 10 Customers by Profit
+- Top 10 Products by Sales
+- Top 10 Products by Profit
+- Average Sales by Category
+- Sales by Ship Mode
+
+## 📈 Charts
+
+The project includes multiple charts saved in the **output/** folder.
+
+## 💡 Key Business Insights
+
+- Technology generated the highest sales and profit.
+- Consumer is the highest revenue-generating customer segment.
+- Adrian Barton is the top customer by sales.
+- Motorola Smart Phone is the highest-selling product.
+- December recorded the highest monthly profit.
+- Standard Class is the most preferred shipping mode.
+
+## 👨‍💻 Author
+
+**Deepak Sharan**
