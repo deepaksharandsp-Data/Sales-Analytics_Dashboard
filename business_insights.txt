@@ -1,0 +1,21 @@
+SALES DATA ANALYSIS - BUSINESS INSIGHTS
+
+1. Technology generated the highest sales.
+
+2. Office Supplies generated the lowest profit.
+
+3. Consumer is the highest revenue-generating customer segment.
+
+4. Adrian Barton is the top customer by sales.
+
+5. Motorola Smart Phone is the highest-selling product.
+
+6. December recorded the highest monthly profit.
+
+7. April recorded the lowest monthly profit.
+
+8. Standard Class is the most preferred shipping mode.
+
+9. Same Day shipping generated the lowest sales.
+
+10. Technology is the most profitable category.
